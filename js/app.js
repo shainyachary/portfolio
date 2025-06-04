@@ -39,8 +39,8 @@ const typed = new Typed(typedText, {
 // ------------- download cv link ----------
 download_link.addEventListener("click", () => {
   let link_cv = document.createElement("a");
-  link_cv.href = "assets/shainy-achary.pdf";
-  link_cv.download = "shain_yachary_cv.pdf";
+  link_cv.href = "assets/shainy_v_achary.pdf";
+  link_cv.download = "shainy_achary_cv.pdf";
   link_cv.click();
 });
 // ---------- theme ----------
