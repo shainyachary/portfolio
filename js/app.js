@@ -31,7 +31,7 @@ links.forEach((link) => {
 
 // ------------ typed text -----------
 const typed = new Typed(typedText, {
-  strings: ["Front-End Developer", "Full Stack Developer", "Ui Developer"],
+  strings: ["Front-End Developer", "Full Stack Developer", "Ui Developer","Senior Software Developer"],
   typeSpeed: 40,
   loop: true,
 });
